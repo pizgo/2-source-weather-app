@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  color: white;
+
+}
+
+body {
+  background-color: #FFF89A;
+}
+
+.container {
+  position: absolute;
+  left: 50%;
+  top: 45%;
+  transform: translate(-50%, -50%);
+  border-radius: 5px;
+  padding: 90px 100px 70px;
+  background-color: #086E7D;
+  width: 500px;
+  height: 500px;
+}
+
+.box {
+  margin-bottom: 20px;
+  background-color: #086E7D;
+  display: flex;
+  flex-direction: column;
+}
+
+.source {
+  font-weight: bolder;
+  color: #FFC900;
+}
+
+.bold {
+  font-weight: bolder;
+}
+
+.btn {
+  background-color: #FFC900;
+  border-radius: 5px;
+  color: black;
+  width: 45%;
+  text-align: center;
+  border-style: none;
+  padding: 10px 0;
+  cursor: pointer;
+  font-size: 0.8rem;
+  margin-bottom: 25px;
+}
+
+.btn:hover {
+  color: white;
+}
+
+
+.text {
+  margin-bottom: 10px;
+}
+
+.input {
+  color: black;
+  margin-bottom: 15px;
+  width: 45%;
+  border-style: none;
+  padding: 5px;
+  font-size: 14px;
+}
+
+.weatherParam {
+  color: #FFC900;
+
+}
+
+.error {
+  color: #ed5147;
+  font-weight: bold;
+
+}
+
+
+
+
