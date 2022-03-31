@@ -4,7 +4,8 @@ An app showing the weather forecast from the API. The application has a switch, 
 
 ### Created with:
 
-React.js
-TypeScript
-CSS
-Cypress integration tests
+- React.js
+- TypeScript
+- Bootstrap
+- SASS
+- Cypress integration tests
