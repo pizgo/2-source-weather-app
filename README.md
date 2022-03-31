@@ -6,6 +6,9 @@ An app showing the weather forecast from the API. The application has a switch, 
 
 - React.js
 - TypeScript
-- Bootstrap
-- SASS
+- Css
 - Cypress integration tests
+
+
+#### Future improvements
+styling and UI design
