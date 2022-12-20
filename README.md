@@ -8,9 +8,9 @@ In order to avoid possible problems emerging from using two different API's (wit
 
 ### Created with:
 
-- React.js
 - TypeScript
-- SASS
+- React.js
+- Css
 - Cypress integration tests
 
 
